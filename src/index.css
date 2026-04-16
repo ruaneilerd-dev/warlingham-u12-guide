@@ -606,6 +606,7 @@ section.chapter {
   .hero-club-name { font-size: 16px; }
   .hero-stats { gap: 16px; }
   .hero-stat-number { font-size: clamp(28px, 8vw, 48px); }
+  .scroll-hint { display: none; }
 
   /* Stays-same cards */
   .stays-grid { grid-template-columns: 1fr; gap: 16px; }
