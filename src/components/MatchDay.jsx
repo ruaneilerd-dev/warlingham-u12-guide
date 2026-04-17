@@ -67,7 +67,7 @@ const MatchDay = () => {
                 <h4>POST-MATCH DRESS CODE</h4>
                 <ul>
                   <li>Smart shirt</li>
-                  <li>Tie</li>
+                  <li>Warlingham club tie (available from the club shop)</li>
                   <li>Trousers (not jeans, not tracksuit bottoms)</li>
                   <li>Clean, tidy shoes</li>
                 </ul>

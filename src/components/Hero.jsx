@@ -24,22 +24,39 @@ const Hero = () => {
           Next season, everything steps up. Bigger teams, bigger scrums, a bigger pitch &mdash; and a place in the <em>Surrey Waterfall Cup</em>. Here&rsquo;s everything you need to know about what&rsquo;s changing, what&rsquo;s staying, and what match days will look like for your child.
         </p>
 
+        <div className="hero-tldr-label">TLDR &mdash; WHAT&rsquo;S NEW FOR PARENTS</div>
         <div className="hero-stats">
           <div className="hero-stat">
             <div className="hero-stat-number">12</div>
-            <div className="hero-stat-label">Players per side</div>
+            <div className="hero-stat-label">Players per side (up from 9)</div>
+          </div>
+          <div className="hero-stat">
+            <div className="hero-stat-number">MID<span style={{ fontSize: '0.6em', opacity: 0.6 }}>WEEK</span></div>
+            <div className="hero-stat-label">Training added (Wed or Thu evening)</div>
+          </div>
+          <div className="hero-stat">
+            <div className="hero-stat-number">TEA</div>
+            <div className="hero-stat-label">Post-match lunch &mdash; players must stay</div>
+          </div>
+          <div className="hero-stat">
+            <div className="hero-stat-number">TIE</div>
+            <div className="hero-stat-label">Smart dress for after the match (club tie from shop)</div>
+          </div>
+          <div className="hero-stat">
+            <div className="hero-stat-number">CUP</div>
+            <div className="hero-stat-label">Surrey Waterfall Cup &mdash; competitive league</div>
+          </div>
+          <div className="hero-stat">
+            <div className="hero-stat-number">SPLIT</div>
+            <div className="hero-stat-label">Boys &amp; girls play in separate teams</div>
           </div>
           <div className="hero-stat">
             <div className="hero-stat-number">5</div>
-            <div className="hero-stat-label">In the scrum</div>
+            <div className="hero-stat-label">In the scrum (up from 3)</div>
           </div>
           <div className="hero-stat">
-            <div className="hero-stat-number">20<span style={{ fontSize: '0.5em', opacity: 0.6 }}>MIN</span></div>
-            <div className="hero-stat-label">Each half</div>
-          </div>
-          <div className="hero-stat">
-            <div className="hero-stat-number">1<span style={{ fontSize: '0.5em', opacity: 0.6 }}>CUP</span></div>
-            <div className="hero-stat-label">Surrey Waterfall</div>
+            <div className="hero-stat-number">HAND<span style={{ fontSize: '0.6em', opacity: 0.6 }}>OFF</span></div>
+            <div className="hero-stat-label">Now permitted &mdash; below the armpit</div>
           </div>
         </div>
       </div>
