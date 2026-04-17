@@ -24,7 +24,7 @@ const Hero = () => {
           Next season, everything steps up. Bigger teams, bigger scrums, a bigger pitch &mdash; and a place in the <em>Surrey Waterfall Cup</em>. Here&rsquo;s everything you need to know about what&rsquo;s changing, what&rsquo;s staying, and what match days will look like for your child.
         </p>
 
-        <div className="hero-tldr-label">TLDR &mdash; WHAT&rsquo;S NEW FOR PARENTS</div>
+        <div className="hero-tldr-label">THE QUICK SUMMARY &mdash; WHAT&rsquo;S NEW FOR PARENTS</div>
         <div className="hero-stats">
           <div className="hero-stat">
             <div className="hero-stat-number">12</div>
