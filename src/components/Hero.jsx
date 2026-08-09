@@ -32,7 +32,7 @@ const Hero = () => {
           </div>
           <div className="hero-stat">
             <div className="hero-stat-number">MID<span style={{ fontSize: '0.6em', opacity: 0.6 }}>WEEK</span></div>
-            <div className="hero-stat-label">Training added (Wed or Thu evening)</div>
+            <div className="hero-stat-label">Training added (Tuesday evenings)</div>
           </div>
           <div className="hero-stat">
             <div className="hero-stat-number">TEA</div>

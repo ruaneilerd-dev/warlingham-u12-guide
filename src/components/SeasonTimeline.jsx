@@ -14,7 +14,7 @@ const SeasonTimeline = () => {
             <div className="timeline-month">SEPTEMBER</div>
             <div className="timeline-phase">Phase 1 &middot; Pre-Christmas</div>
             <div className="timeline-title">Season begins</div>
-            <div className="timeline-desc">Return to training. Sunday sessions plus midweek training begins on a <strong>Wednesday or Thursday evening</strong> (day to be confirmed).</div>
+            <div className="timeline-desc">Return to training. Sunday sessions plus midweek training on <strong>Tuesday evenings</strong>.</div>
           </div>
 
           <div className="timeline-item reveal">

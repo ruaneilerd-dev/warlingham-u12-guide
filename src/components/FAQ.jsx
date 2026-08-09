@@ -6,7 +6,7 @@ const faqs = [
     q: "What's the weekly time commitment?",
     a: [
       'Expect two touchpoints per week during the season. <strong>Sunday mornings</strong> are the main session — training in early season, then matches from January onwards.',
-      'We also add <strong>midweek training on a Wednesday or Thursday evening</strong> (the exact day is still to be confirmed and will be communicated ahead of the season). Midweek is shorter and focused on skills, fitness, and prepping for the weekend.',
+      'We also add <strong>midweek training on Tuesday evenings</strong>. Midweek is shorter and focused on skills, fitness, and prepping for the weekend.',
       "The half-game rule still applies, so your child will always get meaningful minutes — whether they make every session or not. Consistency helps, but we understand family life happens.",
     ],
   },

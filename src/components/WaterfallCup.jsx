@@ -6,7 +6,7 @@ const WaterfallCup = () => {
       <div className="chapter-inner">
         <div className="chapter-number">05</div>
         <div className="chapter-eyebrow reveal">Chapter Five</div>
-        <h2 className="chapter-title reveal">The Surrey<br/><span className="accent">Waterfall Cup.</span></h2>
+        <h2 className="chapter-title reveal">The Surrey<br /><span className="accent">Waterfall Cup.</span></h2>
         <p className="chapter-lead reveal">A &ldquo;waterfall&rdquo; format sounds complex &mdash; it isn&rsquo;t. It simply means teams are placed into tiers based on strength, so the games are closely matched and genuinely competitive. No one gets hammered. No one cruises.</p>
 
         <div className="waterfall-diagram reveal">
@@ -59,7 +59,7 @@ const WaterfallCup = () => {
             <div className="cup-fact-label">Format</div>
             <div className="cup-fact-value">~5 rounds</div>
             <div className="cup-fact-note">Tier-based pools &mdash; round robin or waterfall.</div>
-          </div>
+          </div>https://warlingham-u12-guide.vercel.app/
           <div className="cup-fact reveal">
             <div className="cup-fact-label">Points</div>
             <div className="cup-fact-value">Wins, draws &amp; bonuses</div>
